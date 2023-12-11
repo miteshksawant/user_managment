@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "33196466062",
+    "firebase_url": "https://user-management-d99e9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "user-management-d99e9",
+    "storage_bucket": "user-management-d99e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33196466062:android:7d95ed2ea4b6590feb8edf",
+        "android_client_info": {
+          "package_name": "com.example.user_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyldrEwsKe2T8ditTYxKhgJrM-QZ06FmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
